@@ -71,17 +71,21 @@ Enterprise_Boundary(b0, "人脸识别考勤系统") {
 }
 ```
 
-## 项目开发流程
+## 项目开发进度
 
 ```mermaid
 gantt
 dateFormat YYYY-MM-DD
 
-section 项目A
-任务1 :a1, 2022-1-15, 30d
-任务2 :after a1 , 20d
+section QFaceServer
+A task           :a1, 2023-01-12, 50d
 
-section 项目
-任务1 :a1, 2022-1-15, 30d
-任务2 :after a1 , 20d
+section q-face-web
+A task           :a1, 2023-01-15, 22d
+
+section q-video
+A task           :a1, 2023-02-14, 8d
+
+section QFace
+A task           :a1, 2023-02-26, 5d
 ```
