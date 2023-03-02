@@ -10,6 +10,15 @@
 - QML
 - Redis
 
+## 仓库说明
+
+```text
+q-video：Web 摄像头
+q-face-web：管理员 Web 界面
+QFaceServer：后台服务
+QFace：员工 App
+```
+
 ## 系统功能结构图
 
 ```mermaid
@@ -69,10 +78,10 @@ gantt
 dateFormat YYYY-MM-DD
 
 section 项目A
-任务1 :a1, 2018-06-06, 30d
-任务2 :after a1 , 20
+任务1 :a1, 2022-1-15, 30d
+任务2 :after a1 , 20d
 
 section 项目
-任务1 :a1, 2018-06-06, 30d
-任务2 :after a1 , 20
+任务1 :a1, 2022-1-15, 30d
+任务2 :after a1 , 20d
 ```
