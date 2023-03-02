@@ -78,14 +78,14 @@ gantt
 dateFormat YYYY-MM-DD
 
 section QFaceServer
-A task           :a1, 2023-01-12, 50d
+开发:a1, 2023-01-12, 50d
 
 section q-face-web
-A task           :a1, 2023-01-15, 22d
+开发:a1, 2023-01-15, 22d
 
 section q-video
-A task           :a1, 2023-02-14, 8d
+开发:a1, 2023-02-14, 8d
 
 section QFace
-A task           :a1, 2023-02-26, 5d
+开发:a1, 2023-02-26, 5d
 ```
