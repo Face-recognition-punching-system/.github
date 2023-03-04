@@ -6,7 +6,6 @@
 - OpenCV
 - React
 - TypeScript
-- Less
 - QML
 - Redis
 
