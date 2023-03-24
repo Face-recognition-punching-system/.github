@@ -6,7 +6,7 @@
 - OpenCV
 - React
 - TypeScript
-- QML
+- Flutter
 - Redis
 
 ## 仓库说明
@@ -15,7 +15,7 @@
 q-video：Web 摄像头
 q-face-web：管理员 Web 界面
 QFaceServer：后台服务
-QFace：员工 App
+q-face-app：员工 App
 ```
 
 ## 系统功能结构图
